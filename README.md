@@ -1,8 +1,3 @@
-<style>
-  h2 {
-    color: blue;
-  }
-</style>
 
 <h2>CatPhotoApp</h2>
 <main>
